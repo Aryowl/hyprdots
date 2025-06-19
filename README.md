@@ -19,3 +19,7 @@ a git repo for my configuration files
 
 # Installation
 Clone the Repo and drop the configuration files in ```~/.config``` directory 
+
+# Notes
+The F-fetch is Rust-powered very fast system fetcher. 
+For more information, go to https://github.com/0l3d/ffetch
